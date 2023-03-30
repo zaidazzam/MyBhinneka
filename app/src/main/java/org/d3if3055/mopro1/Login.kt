@@ -5,6 +5,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
+import org.d3if3055.mobpro1.MainActivity
 import org.d3if3055.mopro1.databinding.ActivityLoginBinding
 import org.d3if3055.mopro1.databinding.ActivitySplashScreen1Binding
 

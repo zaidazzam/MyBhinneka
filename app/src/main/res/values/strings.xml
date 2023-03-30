@@ -5,4 +5,5 @@
     <string name="Namaanda">nama</string>
     <string name="alamatanda">alamat</string>
     <string name="silahkan">Silahkan Masuk Untuk Menikmati Semua Fitur</string>
+    <string name="message">%1$s diklik!</string>
 </resources>
