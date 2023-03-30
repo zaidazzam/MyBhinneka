@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyBhinneka</string>
+    <string name="isi_semboyan">Bhinneka Tunggal Ika adalah gambaran persatuan dan kesatuan bangsa Indonesia yang terdiri dari beraneka ragam budaya, bahasa daerah, ras, suku bangsa, agama, dan kepercayaan.</string>
+    <string name="logopersatuan">LoginBudayaKestuan</string>
 </resources>

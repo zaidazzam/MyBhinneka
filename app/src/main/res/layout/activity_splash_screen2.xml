@@ -4,6 +4,69 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/merahInti"
     tools:context=".SplashScreen2">
+
+
+    <ImageView
+        android:contentDescription="@string/logopersatuan"
+        android:id="@+id/gambarIndonesia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.186"
+        app:srcCompat="@drawable/gambarindonesia" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="369dp"
+        android:layout_height="226dp"
+        android:layout_marginBottom="15dp"
+        app:cardCornerRadius="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gambarIndonesia"
+        app:layout_constraintVertical_bias="0.715">
+
+
+        <TextView
+            android:id="@+id/judul_semboyan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/poppins_medium"
+            android:text="Semboyan Negara Indonesia"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/isi_semboyan"
+            android:layout_width="312dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="60dp"
+            android:layout_marginEnd="10dp"
+            android:fontFamily="@font/poppins_medium"
+            android:text="@string/isi_semboyan"
+            android:textAlignment="viewStart"
+            android:textSize="14dp" />
+
+        <Button
+            android:id="@+id/button_lanjut"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="250dp"
+            android:layout_marginTop="170dp"
+            android:fontFamily="@font/poppins_medium"
+            android:text="Lanjut"
+            android:textAllCaps="false" />
+    </androidx.cardview.widget.CardView>
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
