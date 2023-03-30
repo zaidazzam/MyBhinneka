@@ -13,8 +13,9 @@ class SplashScreen2 : AppCompatActivity() {
         binding = ActivitySplashScreen1Binding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        binding.buttonLanjut.setOnClickListener{lanjut()}
+        binding.buttonLanjut.setOnClickListener { lanjut() }
     }
+
     private fun lanjut() {
         val lanjut = Intent(this@SplashScreen2, Login::class.java)
         startActivity(lanjut)

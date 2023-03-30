@@ -14,6 +14,7 @@ class Login : AppCompatActivity() {
         val NAMA: String? = "nama"
         val ASAL: String? = "alamat"
     }
+
     private lateinit var binding: ActivityLoginBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

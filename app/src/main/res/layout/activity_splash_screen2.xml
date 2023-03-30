@@ -9,10 +9,10 @@
 
 
     <ImageView
-        android:contentDescription="@string/logopersatuan"
         android:id="@+id/gambarIndonesia"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:contentDescription="@string/logopersatuan"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.492"
@@ -66,7 +66,6 @@
             android:text="Lanjut"
             android:textAllCaps="false" />
     </androidx.cardview.widget.CardView>
-
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
