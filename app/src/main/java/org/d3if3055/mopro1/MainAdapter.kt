@@ -1,11 +1,9 @@
-package org.d3if3055.mobpro1
+package org.d3if3055.mopro1
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
-import org.d3if3055.mopro1.Budaya
-import org.d3if3055.mopro1.R
 import org.d3if3055.mopro1.databinding.ListItemBudayaBinding
 
 class MainAdapter(private val data: List<Budaya>) : RecyclerView.Adapter<MainAdapter.ViewHolder>() {

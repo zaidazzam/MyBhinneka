@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
     tools:context=".MainActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
-
         <androidx.constraintlayout.widget.ConstraintLayout
             android:id="@+id/constraintLayout"
             android:layout_width="match_parent"
@@ -28,7 +26,6 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="24dp"
                 android:layout_marginTop="12dp"
-                android:text="@string/fotoprofil"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/imageView4"
                 app:srcCompat="@drawable/foto" />
@@ -50,8 +47,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:fontFamily="@font/poppins_medium"
                 android:text="Selamat Datang"
+                android:fontFamily="@font/poppins_medium"
                 android:textColor="#FFFFFF"
                 android:textSize="20sp"
                 android:textStyle="bold"
@@ -60,13 +57,13 @@
 
             <TextView
                 android:id="@+id/nama"
+                android:fontFamily="@font/poppins_medium"
                 android:layout_width="wrap_content"
                 android:layout_height="29dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginStart="4dp"
                 android:layout_marginTop="36dp"
                 android:background="@android:color/transparent"
-                android:fontFamily="@font/poppins_medium"
                 android:text="@string/Namaanda"
                 android:textColor="@android:color/white"
                 android:textSize="24sp"
@@ -75,12 +72,12 @@
 
             <TextView
                 android:id="@+id/halo"
+                android:fontFamily="@font/poppins_medium"
                 android:layout_width="56dp"
                 android:layout_height="29dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="36dp"
                 android:background="@android:color/transparent"
-                android:fontFamily="@font/poppins_medium"
                 android:text="Halo,"
                 android:textColor="@android:color/white"
                 android:textSize="24sp"
@@ -89,13 +86,13 @@
 
             <TextView
                 android:id="@+id/alamat"
-                android:layout_width="wrap_content"
-                android:layout_height="25sp"
+                android:fontFamily="@font/poppins_medium"
+                android:layout_width="69dp"
+                android:layout_height="23dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="48dp"
                 android:layout_marginEnd="36dp"
                 android:background="@android:color/transparent"
-                android:fontFamily="@font/poppins_medium"
                 android:text="@string/alamatanda"
                 android:textColor="@android:color/white"
                 android:textSize="14dp"
@@ -116,9 +113,10 @@
         </androidx.constraintlayout.widget.ConstraintLayout>
 
         <androidx.recyclerview.widget.RecyclerView
+
             android:id="@+id/recyclerView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="406dp"
+            android:layout_height="727dp"
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -126,5 +124,5 @@
             tools:context=".MainActivity"
             tools:listitem="@layout/list_item_budaya" />
     </androidx.constraintlayout.widget.ConstraintLayout>
-</ScrollView>
 
+</ScrollView>

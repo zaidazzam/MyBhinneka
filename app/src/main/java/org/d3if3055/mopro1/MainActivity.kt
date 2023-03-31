@@ -1,13 +1,10 @@
-package org.d3if3055.mobpro1
+package org.d3if3055.mopro1
 
 import android.app.Activity
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.RecyclerView
-import org.d3if3055.mopro1.Budaya
-import org.d3if3055.mopro1.Login
-import org.d3if3055.mopro1.R
 import org.d3if3055.mopro1.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
