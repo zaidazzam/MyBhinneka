@@ -1,9 +1,44 @@
+<!--
+  ~ Copyright (C) 2021 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
 <resources>
     <string name="app_name">MyBhinneka</string>
     <string name="isi_semboyan">Bhinneka Tunggal Ika adalah gambaran persatuan dan kesatuan bangsa Indonesia yang terdiri dari beraneka ragam budaya, bahasa daerah, ras, suku bangsa, agama, dan kepercayaan.</string>
     <string name="logopersatuan">LoginBudayaKestuan</string>
-    <string name="Namaanda">nama</string>
-    <string name="alamatanda">alamat</string>
+    <string name="Namaanda">Warga Lokal</string>
+    <string name="alamatanda">Indonesia</string>
     <string name="silahkan">Silahkan Masuk Untuk Menikmati Semua Fitur</string>
-    <string name="message">%1$s diklik!</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">List Fragment</string>
+    <string name="add_fragment_label">Add Fragment</string>
+
+    <string name="forageable_name">Nama Pahlawan</string>
+    <string name="forageable_location">Tempat Tinggal</string>
+    <string name="in_season">Pejuang Sejatiku</string>
+    <string name="out_of_season">Pejuang Sejatiku</string>
+    <string name="notes">Riwayat Hidup</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="semboyan_negara_indonesia">Semboyan Negara Indonesia</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="switch_layout">Ubah tampilan</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Aplikasi MyBhinneka adalah sebuah platform untuk mengenal budaya Indonesia.  Aplikasi ini nantinya memiliki banyak fitur seperti fitur artikel, video, kuis, dan  informasi mengenai budaya Indonesia. Didalamnya terdiri sebuah informasi budaya apa saja yang ada di Indonesia seperti, suku,pakaian tradisional, senjata  tradisional, rumah adat, alat music tradisional dan yang lainnya. Namun pada  saat ini baru ada fitur informasi singkat saja mengenai budaya yang ada di  Indonesia.\n\nAplikasi ini dibuat untuk kelas Mobpro 1. Temukan kodenya di https://github.com/zaidazzam/MyBhinneka\n\nCopyright © 2023 Zaid Abdullah Azzam.\nAll rights reserved.</string>
+    <string name="bagikan_template">Bagikan data forageable:%1$s, %2$s, %3$s, %4$s</string>
 </resources>

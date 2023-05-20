@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.assesment2.com.d3if3055.assesment2.MainActivity">
+    <item
+        android:id="@+id/menu_about"
+        android:title="@string/tentang_aplikasi"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_switch_layout"
+        android:icon="@drawable/baseline_grid_view_24"
+        android:title="@string/switch_layout"
+        app:showAsAction="always" />
+
+</menu>

@@ -1,128 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView
+
+<androidx.coordinatorlayout.widget.CoordinatorLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context="com.d3if3055.assesment2.MainActivity">
 
-    <androidx.constraintlayout.widget.ConstraintLayout
+    <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-        <androidx.constraintlayout.widget.ConstraintLayout
-            android:id="@+id/constraintLayout"
+        android:layout_height="wrap_content"
+        android:theme="@style/Theme.Forage.AppBarOverlay">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
             android:layout_width="match_parent"
-            android:layout_height="230dp"
-            android:background="@color/merahInti"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.0"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent">
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/Theme.Forage.PopupOverlay" />
 
-            <ImageView
-                android:id="@+id/imageView6"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="24dp"
-                android:layout_marginTop="12dp"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/imageView4"
-                app:srcCompat="@drawable/foto" />
-
-            <ImageView
-                android:id="@+id/imageView4"
-                android:layout_width="157dp"
-                android:layout_height="39dp"
-                android:layout_marginStart="120dp"
-                android:layout_marginTop="4dp"
-                android:layout_marginEnd="120dp"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent"
-                app:srcCompat="@drawable/logo" />
-
-            <TextView
-                android:id="@+id/textView"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="16dp"
-                android:text="Selamat Datang"
-                android:fontFamily="@font/poppins_medium"
-                android:textColor="#FFFFFF"
-                android:textSize="20sp"
-                android:textStyle="bold"
-                app:layout_constraintStart_toStartOf="@+id/halo"
-                app:layout_constraintTop_toBottomOf="@+id/halo" />
-
-            <TextView
-                android:id="@+id/nama"
-                android:fontFamily="@font/poppins_medium"
-                android:layout_width="wrap_content"
-                android:layout_height="29dp"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginStart="4dp"
-                android:layout_marginTop="36dp"
-                android:background="@android:color/transparent"
-                android:text="@string/Namaanda"
-                android:textColor="@android:color/white"
-                android:textSize="24sp"
-                app:layout_constraintStart_toEndOf="@+id/halo"
-                app:layout_constraintTop_toBottomOf="@+id/imageView6" />
-
-            <TextView
-                android:id="@+id/halo"
-                android:fontFamily="@font/poppins_medium"
-                android:layout_width="56dp"
-                android:layout_height="29dp"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginTop="36dp"
-                android:background="@android:color/transparent"
-                android:text="Halo,"
-                android:textColor="@android:color/white"
-                android:textSize="24sp"
-                app:layout_constraintStart_toStartOf="@+id/imageView6"
-                app:layout_constraintTop_toBottomOf="@+id/imageView6" />
-
-            <TextView
-                android:id="@+id/alamat"
-                android:fontFamily="@font/poppins_medium"
-                android:layout_width="69dp"
-                android:layout_height="23dp"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginTop="48dp"
-                android:layout_marginEnd="36dp"
-                android:background="@android:color/transparent"
-                android:text="@string/alamatanda"
-                android:textColor="@android:color/white"
-                android:textSize="14dp"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/imageView4" />
-
-            <ImageView
-                android:id="@+id/imageView7"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="52dp"
-                android:layout_marginEnd="4dp"
-                app:layout_constraintEnd_toStartOf="@+id/alamat"
-                app:layout_constraintTop_toBottomOf="@+id/imageView4"
-                app:srcCompat="@drawable/lokasi" />
+    </com.google.android.material.appbar.AppBarLayout>
 
 
-        </androidx.constraintlayout.widget.ConstraintLayout>
+    <include layout="@layout/content_main" />
 
-        <androidx.recyclerview.widget.RecyclerView
-
-            android:id="@+id/recyclerView"
-            android:layout_width="406dp"
-            android:layout_height="727dp"
-            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/constraintLayout"
-            tools:context=".MainActivity"
-            tools:listitem="@layout/list_item_budaya" />
-    </androidx.constraintlayout.widget.ConstraintLayout>
-
-</ScrollView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
