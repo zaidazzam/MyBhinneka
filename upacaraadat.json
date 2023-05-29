@@ -1,0 +1,38 @@
+[
+    {
+        "judul" : "Upacara Adat Tedak Siten",
+        "tgl" : "12 Juli 2020",
+        "imageId" : "upacaraadat_jawatengah",
+        "tempat" : "Jawa Tengah",
+        "deskripsi" : "Tedak Sinten adalah upacara adat di Indonesia yang berasal dari kebudayaan Jawa. Upacara ini memiliki arti menapakkan kaki ke bumi dan dilakukan oleh bayi berusia 7 bulan yang sedang belajar berjalan dan duduk."
+    
+    },
+    {
+        "judul" : "Upacara Adat Sisingaan",
+        "tgl" : "20 April 2022",
+        "imageId" : "upacaraadat_jawabarat",
+        "tempat" : "Jawa Barat",
+        "deskripsi" : "Upacara adat Sisingaan adalah upacara adat yang berasal dari Jawa Barat. Tradisi ini sudah ada sejak zaman Belanda dan merupakan bentuk perlawanan pada para penjajah. Kini, Sisingaan digunakan untuk memeriahkan acara sunatan atau khitanan anak lelaki."
+    },
+    {
+        "judul" : "Upacara Adat Metatah",
+        "tgl" : "30 Desember 2021",
+        "imageId" : "upacaraadat_bali",
+        "tempat" : "Bali",
+        "deskripsi" : "Metatah atau Mepandes merupakan upacara adat di Indonesia dari Bali yang cukup terkenal di Indonesia. Tradisi ini memiliki arti potong gigi atau mengikir 6 gigi rahang atas, 4 gigi seri, dan 2 gigi taring. Umumnya, anak laki-laki dan perempuan Bali akan melakukan tradisi Metatah ketika sudah beranjak dewasa. Tujuan dari upacara adat ini adalah agar anak laki-laki dan perempuan dapat terhindar dari hal negatif atau Sad Ripu."
+    },
+    {
+        "judul" : "Upacara Adat Pacoa Jara",
+        "tgl" : "10 Juni 2021",
+        "imageId" : "upacaraadat_ntb",
+        "tempat" : "Nusa Tenggara Barat",
+        "deskripsi" : "Upacara adat Pacoa Jara di Nusa Tenggara Barat memiliki arti Pacuan Kuda. Tradisi Pacoa Jara terjadi saat panen tiba dan memiliki tujuan yakni ucapan syukur terhadap panen yang ada. Ciri khas dari upacara ini adalah joki kudanya yang masih berumur 6 hingga 12 tahun."
+    },
+    {
+        "judul" : "Upacara Adat Tatung",
+        "tgl" : "14 Mei 2021",
+        "imageId" : "upacaraadat_kalimantanbarat",
+        "tempat" : "Kalimantan Barat",
+        "deskripsi" : "Tradisi Tatung atau yang juga sering disebut Pawai Tatung adalah satu tradisi menusuk badan yang ada di Kota Singkawang. Tradisi ini digelar saat merayakan Festival Cap Go Meh hari ke-15 setelah tahun baru Imlek. Dalam bahasa Hakka, Tatung merupakan orang yang dirasuki roh dewa atau leluhur. Pemanggilan itu dilakukan dengan menggunakan mantra dan mudra tertentu."
+    }
+]
