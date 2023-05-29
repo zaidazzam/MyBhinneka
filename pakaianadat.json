@@ -1,0 +1,37 @@
+[
+    {
+        "judul" : "Pakaian Adat Linto Baro", 
+        "tgl" : "28 Mei 2022",
+        "imageId" : "pakaianadat_aceh",
+        "tempat" : "Aceh",
+        "deskripsi" : "Linto Baro adalah salah satu pakaian tradisional Orang Aceh yang dikenakan oleh pria dewasa. Pakaian ini biasanya digunakan dalam beberapa upacara adat Aceh. Dalam pernikahan Adat Aceh, Linto Baru dikenakan oleh pengantin pria. Sedangkan pada pengantin wanita, memakai Dara Baro."
+    },
+    {
+        "judul" : "Pakaian Adat Kurung Tanggung", 
+        "tgl" : "10 Februari 2021",
+        "imageId" : "pakaianadat_jambi",
+        "tempat" : "Jambi",
+        "deskripsi" : "Baju Kurung Tanggung merupakan pakaian adat yang berasal dari Provinsi Jambi. Baju adat tersebut dipakai oleh laki-laki dan perempuan masyarakat Jambi untuk acara pernikahan."
+    },
+    {
+        "judul" : "Pakaian Adat Cele", 
+        "tgl" : "28 Desember 2020",
+        "imageId" : "pakaianadat_maluku",
+        "tempat" : "Maluku",
+        "deskripsi" : "Baju cele adalah pakaian tradisional yang berasal dari Ambon, Maluku. Baju cele merupakan kain kebaya yang dikombinasikan dengan kain salele pada pinggang. Pakaian tradisional cele memiliki corak warna merah yang memiliki arti keceriaan, berani, dan cekatan. Pakaian tradisional ini biasanya dipakai dalam upacara-upacara adat di Maluku, seperti acara pelantikan raja, acara cuci negeri, acara pesta negeri, dan acara panas pela."
+    },
+    {
+        "judul" : "Pakaian Adat Pangsi", 
+        "tgl" : "11 Januari 2022",
+        "imageId" : "pakaianadat_banten",
+        "tempat" : "Banten",
+        "deskripsi" : "Pangsi adalah salah satu pakaian adat Sunda. Pangsi merupakan setelan pakaian berupa baju kemeja polos yang agak longgar serta celana yang juga longgar dan panjangnya tidak melebihi mata kaki. Pakaian ini umumnya dipakai oleh laki-laki dan merupakan pakaian khas dari beberapa suku di Indonesia, terutama Betawi dan Sunda. Pangsi merujuk terhadap setiap setelan pakaian yang memakai celana Pangsi sebagai bawahan, sehingga baju yang dipakai pun ikut disebut sebagai baju Pangsi meskipun baju tersebut memiliki nama sendiri."
+    },
+    {
+        "judul" : "Pakaian Adat Sangkarut", 
+        "tgl" : "2 Juli 2023",
+        "imageId" : "pakaianadat_kalimantantengah",
+        "tempat" : "Kalimantan Tengah",
+        "deskripsi" : "Baju Sangkarut atau dikenal juga Baju Basulau merupakan pakaian rompi yang dilapisi oleh Sulau (kerang). Sangka artinya pembatas, yang memiliki filosofi baju ini bisa membatasi dan menangkal setiap gangguan para roh halus yang akan datang pada pemakainya. Selain itu, baju ini dipercaya bisa melindungi pemakainya dari pengaruh orang jahat."
+    }
+]
