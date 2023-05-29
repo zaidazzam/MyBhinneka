@@ -1,0 +1,37 @@
+[
+    {
+        "judul" : "Bonang",
+        "tgl" : "23 Maret 2023",
+        "imageId" : "alatmusik_bonang",
+        "tempat" : "Jawa Timur",
+        "deskripsi" : "Bonang adalah salah satu bagian dari perangkat Gamelan Jawa. Bonang terbagi menjadi dua yaitu bonang barung dan bonang penerus. Bonang berbentuk seperti gong kecil, terbuat dari perunggu, dan biasanya memiliki dinding yang tinggi dengan pencu (tonjolan) untuk ditabuh. Bonang ditabuh menggunakan pemukul yang terbuat dari kayu berbentuk tabung yang kepalanya dibalut dengan kain atau tali."
+    }, 
+    {
+        "judul" : "Kecapi",
+        "tgl" : "11 Oktober 2021",
+        "imageId" : "alatmusik_bonang",
+        "tempat" : "Jawa Barat",
+        "deskripsi" : "Kecapi adalah sebuah alat musik dawai yang dipetik dengan leher (baik ditekan atau tidak) dan punggung dalam yang melingkupi rongga berlubang, biasanya dengan lubang suara atau lubang di badan. Lebih khusus, istilah kecapi dapat merujuk pada instrumen dari keluarga kecapi Eropa."
+    },
+    {
+        "judul" : "Kolintang",
+        "tgl" : "28 November 2022",
+        "imageId" : "alatmusik_kolintang",
+        "tempat" : "Sulawesi Utara",
+        "deskripsi" : "Kolintang adalah alat musik pukul tradisional minahasa dari Sulawesi utara, Indonesia yang terdiri dari bilah-bilah kayu yang disusun berderet dan dipasang di atas sebuah bak kayu.[1] Kolintang biasanya dimainkan secara ansambel. Kolintang dalam masyarakat minahasa digunakan untuk mengiringi upacara adat, tari, menyanyi, dan bermusik."
+    },
+    {
+        "judul" : "Guriding",
+        "tgl" : "1 Maret 2022",
+        "imageId" : "alatmusik_guriding",
+        "tempat" : "Kalimantan Selatan",
+        "deskripsi" : "Guriding adalah alat musik tradisional asli buatan nenek moyang suku Banjar, Kalimantan Selatan. Guriding bisa terbuat dari pelepah enau, bambu ataupun kayu dengan bentuk kecil, dan memiliki alat getar (tali) serta tali penarik. Dimainkan dengan cara ditempelkan di bibir sambil menarik gagang tali getar yang akan menghasilkan bunyi. Dengan ritme tertentu, bunyi yang dihasilkan akan terdengar merdu."
+    },
+    {
+        "judul" : "Seruling",
+        "tgl" : "4 April 2021",
+        "imageId" : "alatmusik_seruling",
+        "tempat" : "Jawa Barat",
+        "deskripsi" : "Seruling atau suling adalah alat musik dari keluarga alat musik tiup kayu atau terbuat dari bambu. Suara seruling berciri lembut dan dapat dipadukan dengan alat musik lainnya dengan baik. Seruling modern untuk para ahli umumnya terbuat dari perak, emas, atau campuran keduanya, sedangkan seruling untuk pelajar umumnya terbuat dari nikel-perak, atau logam yang dilapisi perak."
+    }
+]
