@@ -1,0 +1,38 @@
+[
+    {
+    "judul" : "Bahasa Sunda", 
+    "tgl" : "12 Juli 2023",
+    "imageId" : "bahasa_sunda",
+    "tempat" : "Jawa Barat",
+    "deskripsi" : "Bahasa Sunda adalah sebuah bahasa dari cabang Melayu-Polinesia dalam rumpun bahasa Austronesia. Bahasa ini umumnya dituturkan oleh penduduk bersuku Sunda di wilayah bagian barat pulau Jawa. Bahasa Sunda juga dituturkan oleh diaspora Sunda di beberapa wilayah lain di Indonesia dan di luar Indonesia. Bahasa ini memiliki penutur setidaknya 42 juta orang pada tahun 2016."
+
+    },
+    {
+    "judul" : "Bahasa Jawa", 
+    "tgl" : "20 April 2023",
+    "imageId" : "bahasa_jawa",
+    "tempat" : "Jawa Tengah",
+    "deskripsi" : "Bahasa Jawa adalah bahasa Austronesia yang utamanya dituturkan oleh penduduk bersuku Jawa di wilayah bagian tengah dan timur pulau Jawa. Bahasa Jawa juga dituturkan oleh diaspora Jawa di wilayah lain di Indonesia, seperti di Sumatra dan Kalimantan; serta di luar Indonesia seperti di Suriname, Belanda, dan Malaysia."
+    },
+    {
+        "judul" : "Bahasa Bali", 
+        "tgl" : "2 Februari 2023",
+        "imageId" : "bahasa_bali",
+        "tempat" : "Bali",
+        "deskripsi" : "Bahasa Bali adalah sebuah bahasa Austronesia dari cabang Sundik dan lebih spesifik dari anak cabang Bali-Sasak. Bahasa ini terutama dipertuturkan di pulau Bali, pulau Lombok bagian barat, dan sedikit di ujung timur pulau Jawa. Di Bali sendiri, bahasa Bali memiliki tingkatan penggunaannya, misalnya ada yang disebut Bali Alus, Bali Madya, dan Bali Kasar."
+    },
+    {
+        "judul" : "Bahasa Bugis", 
+        "tgl" : "15 Januari 2023",
+        "imageId" : "bahasa_bugis",
+        "tempat" : "Sulawesi Selatan",
+        "deskripsi" : "Bahasa Bugis adalah salah satu bahasa dari rumpun bahasa Austronesia yang digunakan oleh suku Bugis. Penutur bahasa Bugis umumnya tinggal di Sulawesi Selatan. Wilayah penuturnya terutama di Kabupaten Maros, Kabupaten Pangkajene dan Kepulauan, Kabupaten Barru, Kabupaten Majene, Kabupaten Luwu, Kabupaten Sidenreng Rappang, Kabupaten Soppeng, Kabupaten Wajo, Kabupaten Bone, Kabupaten Sinjai, Kabupaten Pinrang, Kota Parepare."
+    },
+    {
+        "judul" : "Bahasa Sasak", 
+        "tgl" : "28 Mei 2023",
+        "imageId" : "bahasa_sasak",
+        "tempat" : "Nusa Tenggara Barat",
+        "deskripsi" : "Bahasa Sasak merupakan bahasa ibu yang dituturkan oleh suku Sasak yang menjadi etnis mayoritas di pulau Lombok, Indonesia. Bahasa ini berkerabat dekat dengan bahasa Bali dan bahasa Sumbawa yang dituturkan di pulau-pulau sekitar Lombok. Ketiganya merupakan bagian dari rumpun bahasa Austronesia. Bahasa Sasak tidak memiliki status resmi; di Indonesia bahasa Indonesia adalah bahasa nasional yang digunakan oleh penutur bahasa Sasak dalam konteks formal dan tertulis."
+    }
+]
