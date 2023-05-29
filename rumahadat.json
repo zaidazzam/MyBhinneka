@@ -1,0 +1,37 @@
+[
+    {
+        "judul" : "Rumah Adat Gadang", 
+        "tgl" : "10 Mei 2022",
+        "imageId" : "rumahadat_gadang",
+        "tempat" : "Sumatera Barat",
+        "deskripsi" : "Rumah Gadang adalah nama untuk rumah adat Minangkabau yang merupakan rumah tradisional dan banyak jumpai di Sumatra Barat, Indonesia. Rumah ini juga disebut dengan nama lain oleh masyarakat setempat dengan nama Rumah Bagonjong atau ada juga yang menyebut dengan nama Rumah Baanjuang."
+    },
+    {
+        "judul" : "Rumah Adat Selaso Jatuh Kembar", 
+        "tgl" : "29 April 2021",
+        "imageId" : "rumahadat_selasokembar",
+        "tempat" : "Riau",
+        "deskripsi" : "Rumah adat Selaso Jatuh Kembar adalah rumah adat khas Riau yang berupa balai selaso jatuh. Balai atau rumah adat ini difungsikan sebagai tempat berkegiatan bersama, sebagai tempat pertemuan, tetapi tidak digunakan sebagai tempat tinggal pribadi. Rumah Adat Selaso Jatuh Kembar dikenal juga dengan sebutan balai penobatan, balirung sari, balai karapatan dan sebagainya."
+    },
+    {
+        "judul" : "Rumah Adat Limas", 
+        "tgl" : "29 April 2021",
+        "imageId" : "rumahadat_limas",
+        "tempat" : "Sumatera Selatan",
+        "deskripsi" : "Rumah Limas adalah prototipe rumah tradisional Sumatra Selatan. Selain ditandai dengan atapnya yang berbentuk limas, rumah tradisional ini memiliki lantai bertingkat-tingkat yang disebut Bengkilas dan hanya dipergunakan untuk kepentingan keluarga seperti hajatan."
+    },
+    {
+        "judul" : "Rumah Adat Nuwo Sesat", 
+        "tgl" : "20 Oktober 2021",
+        "imageId" : "rumahadat_nuwosesat",
+        "tempat" : "Lampung",
+        "deskripsi" : "Nuwo Sesat adalah salah satu rumah tradisional yang ada di Provinsi Lampung. Nuwo Sesat berfungsi sebagai tempat pertemuan adat bagi para purwatin (Penyimbang) pada saat mengadakan pepung adat (Musyawarah). Pada masa sekarang, rumah adat Nowou Sesat sudah banyak digantikan oleh rumah yang lebih modern. Namun di beberapa daerah di Lampung masih bisa ditemukan rumah adat Nowou Sesat ini, beberapa di antaranya adalah daerah berikut ini: Kampung Wana, Olokgading, Balambangan Pager, Menggala, Talang Padang, dan kampung-kampung tua lainnya di Lampung masih dipertahankan oleh masyarakat setempat."
+    },
+    {
+        "judul" : "Rumah Adat Sulah Nyanda", 
+        "tgl" : "14 Maret 2020",
+        "imageId" : "rumahadat_sulahnyunda",
+        "tempat" : "Banten",
+        "deskripsi" : "Sulah nyanda adalah rumah adat orang Badui yang berada di Provinsi Banten. Disebut sulah nyanda, karena atapnya terbuat dari daun nipah yang dikeringkan.[2] Nyanda dalam bahasa Sunda memiliki arti sikap bersandar, sandarannya tidak lurus melainkan agak merebah ke belakang. Rumah tradisional Badui ini disebut juga Imah dan harus menghadap ke selatan."
+    }
+]
