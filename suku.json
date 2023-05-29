@@ -1,0 +1,38 @@
+[
+   {
+        "judul" : "Suku Sunda",
+        "tgl" : "12 Juli 2023",
+        "imageId" : "suku_sunda",
+        "tempat" : "Jawa Barat",
+        "deskripsi" : "Suku Sunda adalah suku bangsa yang berasal dari bagian barat Pulau Jawa, Indonesia, dengan istilah Tatar Pasundan yang mencakup sebagian besar wilayah administrasi Provinsi Jawa Barat, Banten, Jakarta dan sebagian wilayah barat Jawa Tengah yang mencakup sebagian wilayah Kabupaten Cilacap, sebagian Kabupaten Brebes, hingga sebagian kecil Kabupaten Banyumas."
+    
+    },
+    {
+        "judul" : "Suku Betawi",
+        "tgl" : "15 April 2023",
+        "imageId" : "suku_betawi",
+        "tempat" : "Jakarta",
+        "deskripsi" : "Suku Betawi adalah salah satu suku bangsa di Indonesia yang memiliki kekerabatan etnis dengan Jawa, Melayu dan Sunda. Umumnya, Orang Betawi mendiami wilayah Jakarta dan daerah sekitarnya.[3] Kemunculan Betawi pertama kali pada abad ke-18 sebagai suatu komunitas dari beberapa etnis yang menetap di Batavia."
+    },
+    {
+        "judul" : "Suku Aceh",
+        "tgl" : "25 Juli 2023",
+        "imageId" : "suku_aceh",
+        "tempat" : "Aceh",
+        "deskripsi" : "Suku Aceh adalah salah satu suku bangsa yang mendiami wilayah Provinsi Aceh di Indonesia, dikenal memiliki kekayaan budaya dan sejarah yang kaya. Bahasa yang digunakan oleh suku Aceh adalah bahasa Aceh, namun banyak pula yang menggunakan bahasa Indonesia. Suku Aceh juga memiliki adat istiadat dan kepercayaan yang unik. Salah satu contoh kepercayaan yang masih dipertahankan hingga saat ini adalah adat meugang, yaitu tradisi memotong sapi atau kerbau pada saat perayaan Idul Adha."
+    },
+    {
+        "judul" : "Suku Asmat",
+        "tgl" : "8 September 2022",
+        "imageId" : "suku_asmat",
+        "tempat" : "Papua",
+        "deskripsi" : "Suku Asmat adalah suku di Papua Selatan. Suku ini dikenal sebagai turunan Dewa, meyakini bahwa mereka berasal dari keturunan Dewa Fumeripits, suku ini juga merupakan salah satu suku dari Provinsi Papua yang terkenal karena budayanya yang sangat menghormati alam dan kehidupan leluhurnya."
+    },
+    {
+        "judul" : "Suku Ambon",
+        "tgl" : "10 Desember 2022",
+        "imageId" : "suku_ambon",
+        "tempat" : "Maluku",
+        "deskripsi" : "Suku Ambon (Ambon: orang Ambong) adalah sebuah suku campuran Austronesia-Papua. Suku Ambon adalah suku terbesar di Maluku yang banyak mendiami wilayah Ambon, Saparua, Seram bagian selatan, Nusalaut, dan Haruku. Suku Ambon merupakan suku terbesar di antara orang-orang Maluku lainnya, meski banyak darinya yang tersebar sebagai akibat dari perpindahan keluar dari daerah aslinya."
+    }
+]
