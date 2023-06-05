@@ -1,0 +1,37 @@
+[
+    {
+        "judul" : "Harimau Sumatera (Panthera tigris sumatrae)",
+        "tgl" : "01 Maret 2019",
+        "imageId" : "fauna_sumatera",
+        "tempat" : "Sumatera",
+        "deskripsi" : "Harimau sumatra adalah populasi Panthera tigris sondaica[2] yang mendiami pulau Sumatra, Indonesia dan satu-satunya anggota subspesies harimau sunda yang masih bertahan hidup hingga saat ini. Ia termasuk dalam klasifikasi satwa kritis yang terancam punah (critically endangered) dalam daftar merah spesies terancam yang dirilis Lembaga Konservasi Dunia IUCN. Populasi liar diperkirakan antara 400-500 ekor, terutama hidup di Pegunungan Bukit Barisan."
+    },
+    {
+        "judul" : "Badak Sumatera (Dicerorhinus sumatrensis)",
+        "tgl" : "27 Oktober 2022",
+        "imageId" : "fauna_badak",
+        "tempat" : "Sumatera",
+        "deskripsi" : "Badak sumatra, juga dikenal sebagai badak berambut atau badak Asia bercula dua (Dicerorhinus sumatrensis),[5] merupakan spesies langka dari famili Rhinocerotidae dan termasuk salah satu dari lima spesies badak yang masih lestari. Badak sumatra merupakan satu-satunya spesies yang tersisa dari genus Dicerorhinus."
+    },
+    {
+        "judul" : "Orangutan (Pongo)",
+        "tgl" : "19 Agustus 2021",
+        "imageId" : "fauna_orangutan",
+        "tempat" : "Kalimantan",
+        "deskripsi" : "Orangutan adalah kera besar yang berasal dari hutan hujan Indonesia dan Malaysia. Sekarang hewan ini hanya ditemukan di sebagian Kalimantan dan Sumatra, tetapi selama era Pleistosen, mereka tersebar di seluruh Asia Tenggara dan Tiongkok Selatan. Orang utan diklasifikasikan dalam genus Pongo dan awalnya dianggap hanya terdiri dari satu spesies."
+    },
+    {
+        "judul" : "Jalak Bali (Leucopsar rothschildi)",
+        "tgl" : "05 Agustus 2020",
+        "imageId" : "fauna_jalakbali",
+        "tempat" : "Bali",
+        "deskripsi" : "Jalak Bali (Leucopsar rothschildi) adalah sejenis burung pengicau berukuran sedang, dengan panjang lebih kurang 25 cm,[1] dari suku Sturnidae. Ia turut dikenali sebagai Curik Ketimbang Jalak.[2] Jalak Bali hanya ditemukan di hutan bagian barat Pulau Bali dan merupakan hewan endemik Indonesia. Burung ini juga merupakan satu-satunya spesies endemik Bali dan pada tahun 1991 dinobatkan sebagai lambang fauna Provinsi Bali."
+    },
+    {
+        "judul" : "Komodo (Varanus komodoensis)",
+        "tgl" : "11 Desember 2019",
+        "imageId" : "fauna_komodo",
+        "tempat" : "Nusa Tenggara Timur",
+        "deskripsi" : "Komodo adalah spesies biawak besar yang terdapat di Pulau Komodo, Rinca, Flores, Gili Motang, dan Gili Dasami di Provinsi Nusa Tenggara Timur, Indonesia. Hewan ini oleh penduduk asli pulau Komodo juga disebut dengan nama setempat ora.Nama lain dari komodo adalah buaya darat, walaupun komodo bukanlah spesies buaya."
+    }
+]
