@@ -15,6 +15,7 @@
  */
 package com.d3if3055.assesment2.ui
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.*
 import androidx.core.content.ContextCompat
@@ -31,6 +32,7 @@ import com.d3if3055.assesment2.data.SettingDataStore
 import com.d3if3055.assesment2.data.dataStore
 import com.d3if3055.assesment2.databinding.FragmentForageableListBinding
 import com.d3if3055.assesment2.ui.adapter.ForageableListAdapter
+import com.d3if3055.assesment2.ui.suku.SukuActivity
 import com.d3if3055.assesment2.ui.viewmodel.ForageableViewModel
 import com.d3if3055.assesment2.ui.viewmodel.ForageableViewModelFactory
 import kotlinx.coroutines.launch
@@ -61,7 +63,13 @@ class ForageableListFragment : Fragment() {
 
         _binding = FragmentForageableListBinding.inflate(inflater, container, false)
         setHasOptionsMenu(true)
+        binding.btnsuku.setOnClickListener { lanjutSuku() }
         return binding.root
+    }
+
+    private fun lanjutSuku() {
+        val lanjut = Intent(requireContext(), SukuActivity::class.java)
+        startActivity(lanjut)
     }
 
 

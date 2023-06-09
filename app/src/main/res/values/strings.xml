@@ -29,11 +29,16 @@
     <string name="forageable_location">Tempat Tinggal</string>
     <string name="in_season">Pejuang Sejatiku</string>
     <string name="out_of_season">Pejuang Sejatiku</string>
+    <string name="message">%1$s diklik!</string>
     <string name="notes">Riwayat Hidup</string>
     <string name="save">Save</string>
+    <string name="channel_name">Updater</string>
+    <string name="channel_desc">Update data Budaya otomatis</string>
     <string name="delete">Delete</string>
     <string name="delete_question">Are you sure you want to delete?</string>
     <string name="no">No</string>
+    <string name="notif_title">Ada Budaya baru!</string>
+    <string name="notif_text">Cek sekarang biar nggak penasaran..</string>
     <string name="yes">Yes</string>
     <string name="semboyan_negara_indonesia">Semboyan Negara Indonesia</string>
     <string name="lanjut">Lanjut</string>
@@ -41,4 +46,5 @@
     <string name="tentang_aplikasi">Tentang Aplikasi</string>
     <string name="copyright">Aplikasi MyBhinneka adalah sebuah platform untuk mengenal budaya Indonesia.  Aplikasi ini nantinya memiliki banyak fitur seperti fitur artikel, video, kuis, dan  informasi mengenai budaya Indonesia. Didalamnya terdiri sebuah informasi budaya apa saja yang ada di Indonesia seperti, suku,pakaian tradisional, senjata  tradisional, rumah adat, alat music tradisional dan yang lainnya. Namun pada  saat ini baru ada fitur informasi singkat saja mengenai budaya yang ada di  Indonesia.\n\nAplikasi ini dibuat untuk kelas Mobpro 1. Temukan kodenya di https://github.com/zaidazzam/MyBhinneka\n\nCopyright © 2023 Zaid Abdullah Azzam.\nAll rights reserved.</string>
     <string name="bagikan_template">Bagikan data forageable:%1$s, %2$s, %3$s, %4$s</string>
+    <string name="koneksi_error">Koneksi Error</string>
 </resources>
